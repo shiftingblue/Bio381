@@ -1,5 +1,5 @@
 ---
-title: "webpage"
+title: "Lindsay Barbieri Webpage"
 output: html_document
 ---
 
@@ -7,6 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hi I am trying to make a website
+Hi I am trying to make a website for Computational Biology
 
-Link to Homework: [link](bio381test.html)
+Link to Homeworks: 
+*[Homework 1](bio381test.html)

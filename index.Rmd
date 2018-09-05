@@ -1,5 +1,5 @@
 ---
-title: "Lindsay Barbieri Webpage"
+title: "Lindsay Barbieri Webpage OF AWESOMENESS"
 output: html_document
 ---
 

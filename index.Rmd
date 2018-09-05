@@ -14,3 +14,6 @@ Link to Homeworks:
 
 Link to CSV:
 [CSV](CU_PAS_Test_20180819_Master.csv)
+
+Link to Typora Diagram:
+[Typora](TyporaTest.png)

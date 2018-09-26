@@ -4,19 +4,23 @@ I'm working to figure out Typora..
 
 ```mermaid
 graph TD
-A(Soil Microbial Communities AND Activity)
+A(Soil Microbial Communities)
+G(Soil Microbial Activity)
 B(weather)
 C(management) 
 D(soil physical properties)
 E(policy)
 F((Soil GHG Emissions))
 
-C ==> A 
+C ==> A
+E --> C
 B ==> A 
 D --> A
+D --> G
 B --> C
-E --> C
+B --> D
 A --> F 
+G --> F 
 D --> F
  
 ```
